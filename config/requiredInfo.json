@@ -1,19 +1,11 @@
 {
-  "siteTitle": "Corgi",
-  "siteDescription": "My awesome personal site, i'm a Corgi!",
+  "siteTitle": "Kenzie",
+  "siteDescription": "My awesome site, welcome!",
   "avatar": "/img/avatar.jpg",
   "background": "/img/background.jpg",
-  "description": "Hey I'm a Corgi. Thanks for visiting my personal site!",
-  "resumeFile": "https://dl.dropboxusercontent.com/u/3848960/corgi.pdf",
-  "icons": [
-    {"icon": "page", "link": "/resume"},
-    {"icon": "social-github", "link": "/github"},
-    {"icon": "social-twitter", "link": "/twitter"},
-    {"icon": "paw", "link": "/corgi"},
-    {"icon": "social-reddit", "link": "https://www.reddit.com/r/corgi"}
-  ],
+  "description": "Hey I'm Mackenzie. Thanks for visiting my site!",
   "projects": [
-    {"title":"Dogecoin Ticker", "link":"/dogecointicker"},
-    {"title":"JSON Configurable Site", "link":"/repo"}
+    {"title":"My dad's site", "link":"http://henryfranco.com"},
+    {"title":"My sister's site", "link":"http://aubreyfranco.com"}
   ]
 }
