@@ -1,0 +1,11 @@
+{
+  "siteTitle": "Kenzie",
+  "siteDescription": "My awesome site, welcome!",
+  "avatar": "/img/avatar.jpg",
+  "background": "/img/background.jpg",
+  "description": "Hey I'm Mackenzie. Thanks for visiting my site!",
+  "projects": [
+    {"title":"My dad's site", "link":"http://henryfranco.com"},
+    {"title":"My sister's site", "link":"http://aubreyfranco.com"}
+  ]
+}
